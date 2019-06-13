@@ -1,0 +1,1 @@
+{"version":2,"name":"zeit-now-demo","builds":[{"src":"**/*.py","use":"@now/python"},{"src":"css/**","use":"@now/static"}]}
